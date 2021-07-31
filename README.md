@@ -1,2 +1,2 @@
-# bulma-dogo
+# dogopolsko
 Created with CodeSandbox
